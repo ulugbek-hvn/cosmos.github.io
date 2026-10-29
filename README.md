@@ -1,6 +1,6 @@
 # Explore Cosmos 
 
-### Currently LIVE on [GitHub Pages](https://ulugbek-hvn.github.io/cosmos.github.io)
+### Currently LIVE on [Cosmos Simulator](https://ulugbek-hvn.github.io/cosmos.github.io){:target="_blank"}
 
 Contributors are welcome]. 
 
